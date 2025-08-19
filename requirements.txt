@@ -1,0 +1,25 @@
+# Core data science packages
+pandas>=2.1.0
+numpy>=1.26.0
+matplotlib>=3.6.0
+seaborn>=0.13.0
+scipy>=1.11.0
+
+# Time series analysis
+statsmodels>=0.14.0
+scikit-learn>=1.4.0
+
+# Excel file support
+openpyxl>=3.1.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipykernel>=6.20.0
+nbconvert>=7.0.0
+
+# Additional utilities for analysis
+tqdm>=4.64.0
+
+# Note: Advanced packages like PyMC, rpy2, ruptures may require separate installation
+# due to Python 3.12 compatibility issues. Core functionality implemented using
+# available packages with custom implementations where needed.
